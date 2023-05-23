@@ -1,0 +1,4 @@
+Pregunta 1 : No se puede crear carpetas porque dentro de pelicuas se crearon archivos.
+Pregunta 2 : Si, $> touch Intensamente.txt "Eljuego del miedo".xls "Rapido y Furiosos".pdf Titanic.jpg.
+
+
